@@ -69,8 +69,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your link here)
-- 📧 Email: (prafull@doritech.in)
+- 💼 LinkedIn: ![Prafull's LinkedIn](www.linkedin.com/in/prafullbajpai0)
+- 📧 Email: Prafull@doritech.in
 
 ---
 
